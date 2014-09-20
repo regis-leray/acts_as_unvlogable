@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "acts_as_unvlogable/version"
 
 Gem::Specification.new do |s|
-  s.name        = "acts_as_unvlogable"
+  s.name        = "acts_as_unvlogable_fork"
   s.version     = ActsAsUnvlogable::VERSION
   s.platform    = Gem::Platform::RUBY
   s.required_ruby_version = '>= 1.9.3'

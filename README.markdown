@@ -80,6 +80,12 @@ Then we have methods to know the 'basics' for use this video on your application
           => "{ [...] }"
 
 
+How to push to rubygems
+----------------------------
+rake install
+rake release
+
+
 Supported services
 ------------------
 
